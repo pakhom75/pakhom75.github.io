@@ -1,0 +1,85 @@
+body{
+	background-color:#FFE4E1;
+}
+.nav {
+  background: #FF4500;
+}
+.nav2 {
+  background: #FF4500;
+}
+.nav-item {
+  padding: 5px;
+}
+
+.nav-item:hover, .active {
+  background: #000000;
+}
+
+.nav-link, .nav-link:hover {
+  color: #FFFFFF;
+  font: bold 14px sans-serif;
+}
+
+/* Section */
+
+.hero-block {
+  background-image: url("https://res.cloudinary.com/dfog0e294/image/upload/v1541583630/web-design/Supergirl-and-Superman-at-Night-wallpaper-dc-comics-41107893-1920-1080.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div {
+  background-color: #FF8C00
+  ;
+  border: 4px outset #FF8C00;
+}
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.social a {
+    text-align: center;
+    width: 38px;
+    height: 38px;
+    float: left;
+    background: #fff;
+    border: 2px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: 0 10px 10px 0;
+    padding: 6px;
+    color: #000;
+}
+.vk a:hover {background: #5d84ae; color: #fff;}
+
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+.social a {
+    text-align: center;
+    width: 38px;
+    height: 38px;
+    float: left;
+    background: #fff;
+    border: 2px solid #ccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+    border-radius: 24px;
+    margin: 0 10px 10px 0;
+    padding: 6px;
+    color: #000;
+}
+.google a:hover {background: #B22222; color: #fff;}
+
+.carousel a:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+/*Пошла вторая Страниwf*/
+
+{
+  text-align: left;
+
+  background: #FF4500;
+}
+.namee {
+  display: block;
+  margin: 0 auto;
+}
+.text  text-center
+
+.text2  text-center
